@@ -1,0 +1,5 @@
+version = 3
+
+[[package]]
+name = "100-exercises"
+version = "0.1.0"
